@@ -1,7 +1,7 @@
 {
   "name": "gumnet/magento2-erpdh-integration",
   "description": "Magento 2 Erp Dh Integration",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://gum.net.br",
   "require": {
     "php": ">=7.0.0",

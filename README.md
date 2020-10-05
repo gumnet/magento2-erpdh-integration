@@ -8,7 +8,9 @@ composer require gumnet/magento2-erpdh-integration
 
 ## Configuration
 Magento 2 Admin > Stores > Configuration > ERPDH > Erp Dh
+
 API user: testuser
+
 API Password: iLScA6VMwDmly2PFeUEbXgyDkN22G6opM767yabJ
 
 API devlopment authentication had some issues due to lack of time.
