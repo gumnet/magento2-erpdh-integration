@@ -1,0 +1,30 @@
+{
+  "name": "gumnet/magento2-erpdh-integration",
+  "description": "Magento 2 Erp Dh Integration",
+  "version": "0.0.1",
+  "homepage": "https://gum.net.br",
+  "require": {
+    "php": ">=7.0.0",
+    "magento/framework": "^102.0"
+  },
+  "type": "magento2-module",
+  "license": [
+      "BSD-2-Clause"
+  ],
+  "authors": [
+    {
+      "name": "Gustavo Ulyssea @ GUM Net",
+      "email": "suporte@gum.net.br",
+      "homepage": "https://gum.net.br",
+      "role": "Leader"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "GumNet\\ErpDh\\": ""
+    }
+  }
+}
